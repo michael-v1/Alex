@@ -1,7 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    border: #1f2937 10px;
+    border: solid 0px ;
 }
 
 @media screen and (min-width:970px){
@@ -34,6 +34,7 @@
 ul{
     display: flex;
     gap: 25px;
+    align-items: center;
 }
 
 .navbar li{
